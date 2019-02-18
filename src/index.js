@@ -3,5 +3,5 @@ const User = require('./lib/User');
 
 module.exports = {
   Client: Client,
-  User: User,
+  User: User
 }
